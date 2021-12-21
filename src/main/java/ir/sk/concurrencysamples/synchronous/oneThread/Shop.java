@@ -1,4 +1,4 @@
-package ir.sk.concurrencysamples.synchronous;
+package ir.sk.concurrencysamples.synchronous.oneThread;
 
 import java.util.Random;
 
